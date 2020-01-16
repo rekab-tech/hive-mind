@@ -1,0 +1,12 @@
+{
+  "name": "hive-mind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "ioredis": "^4.2.0",
+    "protobufjs": "^6.8.8",
+    "shortid": "^2.2.14"
+  }
+}

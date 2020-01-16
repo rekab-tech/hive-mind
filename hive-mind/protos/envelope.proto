@@ -1,0 +1,12 @@
+// awesome.proto
+syntax = "proto3";
+package hiveenvelope;
+
+message HiveEnvelopeMessage {
+	int32 target = 1;
+    	int32 type = 2;
+	string id = 3;
+
+	bytes data = 4;
+	int32 from = 5;	// must be renamed
+}

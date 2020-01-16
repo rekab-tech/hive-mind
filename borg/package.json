@@ -1,0 +1,11 @@
+{
+  "name": "borg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "chalk": "^2.4.1",
+    "toml": "^2.3.3"
+  }
+}
